@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/logo.png" alt="Logo da NEOX" width="150">
+  <img src="/profile/logo.jpeg" alt="Logo da NEOX" width="150">
   <h1>Bem-vindo à Organização Neox-Ecommerce</h1>
   <p>Construindo o futuro do e-commerce para empreendedores.</p>
 </div>
